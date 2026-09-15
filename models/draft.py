@@ -2,7 +2,7 @@
 Draft dataclass — represents one version of the Writer's output.
 """
 from dataclasses import dataclass, field
-from datetime import datetim
+from datetime import datetime
 
 
 @dataclass
